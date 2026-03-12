@@ -1,5 +1,5 @@
 # LLM-finetune-development
-### Pre trained LLM is finetune with custom datasets from hugging face, json.
+### Pre trained LLM is finetune with custom datasets from hugging face, json. \n
 ### FINE TUNE ACTION PLAN : Pre trained LLM -> curated dataset -> Initialize -> training -> Evaluate/Iterate
 
 ##INCLUDE :
